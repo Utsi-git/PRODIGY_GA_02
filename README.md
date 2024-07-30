@@ -2,7 +2,7 @@
 
 Project Overview
 Project Name: Text-to-Image Generation with Stable Diffusion
-https://media.licdn.com/dms/image/D4D22AQHIVe_4MwtgZw/feedshare-shrink_2048_1536/0/1721774168038?e=1725494400&v=beta&t=2NX8EscIUfMHoOe2eVgvKMQXiFznf9eGn3NwGDL00G4![image](https://github.com/user-attachments/assets/2d061011-892e-4f1a-9b51-b326d4d7f6ae)
+![image](https://github.com/user-attachments/assets/ad2ac71e-2819-4a12-b3f5-fff3b7de9b07)
 
 
 Description:
