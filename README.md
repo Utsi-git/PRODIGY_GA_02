@@ -2,6 +2,8 @@
 
 Project Overview
 Project Name: Text-to-Image Generation with Stable Diffusion
+https://media.licdn.com/dms/image/D4D22AQHIVe_4MwtgZw/feedshare-shrink_2048_1536/0/1721774168038?e=1725494400&v=beta&t=2NX8EscIUfMHoOe2eVgvKMQXiFznf9eGn3NwGDL00G4![image](https://github.com/user-attachments/assets/2d061011-892e-4f1a-9b51-b326d4d7f6ae)
+
 
 Description:
 This project demonstrates how to generate high-quality images from text prompts using the Stable Diffusion model. The code is optimized for running in a Google Colab environment, utilizing GPU acceleration for faster image generation. Users can customize various parameters such as image size, number of inference steps, and guidance scale to tailor the output to their needs.
